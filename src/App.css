@@ -1,0 +1,23 @@
+.cd1{
+  display: flex;
+  flex-direction: row;
+  height: 100px;
+}
+
+.jumbotron{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+}
+
+.text-1{
+  text-align: center;
+}
+.navbar-expand-lg{
+  margin-left: 70px;
+}
+
+.nav-item:hover {
+  color: red;
+}
+
